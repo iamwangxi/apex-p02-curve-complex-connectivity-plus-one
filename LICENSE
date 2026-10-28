@@ -1,0 +1,61 @@
+License scope
+=============
+
+Original prose in README.md, README.zh-CN.md, proof/, and sources/ is
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
+to the extent applicable copyright or database rights exist. The original
+selection and arrangement of this verification package and its manifest
+are covered on the same basis.
+
+Attribute this material to the apex-p02-curve-complex-connectivity-plus-one
+contributors, retain this notice, provide a link to the license, and
+indicate changes. A suitable attribution is:
+
+"Adapted from One more degree of connectivity for complexes of curves intersecting at most once, by the
+apex-p02-curve-complex-connectivity-plus-one contributors, CC BY 4.0."
+
+When available, include the public repository URL and the version used.
+
+CC BY 4.0 canonical license: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The license permits sharing and adaptation, including commercial use,
+subject to its attribution conditions. The linked legal code governs.
+No additional restrictions are imposed by this notice.
+
+The Apex target paper and external references are not covered by this
+grant. They retain their own copyright and license terms. External
+publications are cited or linked, not bundled as full texts or PDFs.
+Short quotations, if any, remain subject to the rights of their owners.
+No license here implies endorsement by Apex Intelligence or any cited author.
+
+This material is supplied without warranties, as provided in CC BY 4.0.
+
+Code license
+============
+
+All code in scripts/ is licensed under the following MIT License. The
+CC BY 4.0 grant above covers original prose in checks/ as well; numerical
+facts are included to the extent applicable rights exist.
+
+MIT License
+
+Copyright (c) 2026 apex-p02-curve-complex-connectivity-plus-one contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

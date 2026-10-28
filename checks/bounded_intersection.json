@@ -1,0 +1,179 @@
+{
+  "all_passed": true,
+  "cycle_bound": {
+    "multigraph_cycle_bound_cases": 40899
+  },
+  "parameters": {
+    "genus_intersection_parameter_cases": 499500
+  },
+  "ribbon_and_cover_models": {
+    "admissible_ribbon_certificates": 295,
+    "base_genus": 3,
+    "base_n": 4,
+    "base_seed": 202610289001,
+    "complete_ribbon_attempts": 336,
+    "cover_primes": [
+      2,
+      3,
+      5,
+      7,
+      11,
+      13,
+      17,
+      19,
+      23,
+      29,
+      31
+    ],
+    "cycle_cost_distribution": {
+      "1": 285,
+      "2": 44,
+      "3": 10
+    },
+    "cyclic_cover_certificates": 44,
+    "face_counts_at_least_number_of_colors": 154,
+    "largest_cover": {
+      "F": 62,
+      "I": 186,
+      "cost": 2,
+      "d": 31,
+      "genus": 63,
+      "multiplicities": {
+        "0": 1,
+        "2": 1
+      },
+      "n": 4,
+      "repeated_color": false
+    },
+    "repeated_color_cycles": 11,
+    "repeated_color_examples": [
+      {
+        "F": 4,
+        "I": 12,
+        "cost": 2,
+        "d": 4,
+        "genus": 5,
+        "multiplicities": {
+          "1": 2
+        },
+        "n": 3,
+        "repeated_color": true
+      },
+      {
+        "F": 7,
+        "I": 15,
+        "cost": 3,
+        "d": 5,
+        "genus": 5,
+        "multiplicities": {
+          "1": 2,
+          "2": 1
+        },
+        "n": 3,
+        "repeated_color": true
+      },
+      {
+        "F": 6,
+        "I": 24,
+        "cost": 3,
+        "d": 4,
+        "genus": 10,
+        "multiplicities": {
+          "0": 3
+        },
+        "n": 4,
+        "repeated_color": true
+      },
+      {
+        "F": 5,
+        "I": 105,
+        "cost": 3,
+        "d": 5,
+        "genus": 51,
+        "multiplicities": {
+          "0": 2,
+          "1": 1
+        },
+        "n": 7,
+        "repeated_color": true
+      },
+      {
+        "F": 4,
+        "I": 112,
+        "cost": 2,
+        "d": 4,
+        "genus": 55,
+        "multiplicities": {
+          "2": 2
+        },
+        "n": 8,
+        "repeated_color": true
+      },
+      {
+        "F": 26,
+        "I": 78,
+        "cost": 3,
+        "d": 13,
+        "genus": 27,
+        "multiplicities": {
+          "0": 2,
+          "2": 1
+        },
+        "n": 4,
+        "repeated_color": true
+      },
+      {
+        "F": 34,
+        "I": 102,
+        "cost": 3,
+        "d": 17,
+        "genus": 35,
+        "multiplicities": {
+          "0": 2,
+          "3": 1
+        },
+        "n": 4,
+        "repeated_color": true
+      },
+      {
+        "F": 34,
+        "I": 102,
+        "cost": 3,
+        "d": 17,
+        "genus": 35,
+        "multiplicities": {
+          "2": 1,
+          "3": 2
+        },
+        "n": 4,
+        "repeated_color": true
+      }
+    ]
+  },
+  "small_multigraphs": {
+    "augmenting_algorithm_checks": 4068,
+    "connected_multigraphs": 954,
+    "partition_capacity_cases": 63988,
+    "rank_checks": 26281
+  },
+  "weighted_intersection_graphs": {
+    "admissible_even_bound_cases": 16988,
+    "color_subset_rank_inequalities": 540324,
+    "face_distribution": {
+      "1": 8966,
+      "2": 4648,
+      "3": 2132,
+      "4": 855,
+      "5": 290,
+      "6": 79,
+      "7": 16,
+      "8": 2
+    },
+    "low_degree_cases": {
+      "one_face_degree_one": 88,
+      "two_face_degree_two": 170,
+      "two_face_two_low_colors": 3
+    },
+    "scanned_weighted_graphs": 97838
+  }
+}

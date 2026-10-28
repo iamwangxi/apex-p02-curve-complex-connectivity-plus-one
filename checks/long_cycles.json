@@ -1,0 +1,111 @@
+{
+  "limits": "Uses the ribbon insertion routines; independent Euler/permutation checks. Nonfilling cones use the written essential-boundary lemma.",
+  "operations": [
+    {
+      "F": 4,
+      "I": 10,
+      "child_intersection_counts": {
+        "0": 8,
+        "1": 8,
+        "2": 8,
+        "3": 9,
+        "4": 9
+      },
+      "crossed_colors": [
+        0,
+        1,
+        2
+      ],
+      "depth": 0,
+      "path": [],
+      "rainbow_length": 3
+    },
+    {
+      "F": 2,
+      "I": 8,
+      "child_intersection_counts": {
+        "1": 4,
+        "2": 5,
+        "3": 6,
+        "4": 6,
+        "5": 7
+      },
+      "crossed_colors": [
+        1
+      ],
+      "depth": 1,
+      "path": [
+        0
+      ],
+      "rainbow_length": 1
+    },
+    {
+      "F": 1,
+      "I": 7,
+      "child_intersection_counts": {
+        "1": 4,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "6": 6
+      },
+      "crossed_colors": [
+        6
+      ],
+      "depth": 2,
+      "path": [
+        0,
+        5
+      ],
+      "rainbow_length": 1
+    },
+    {
+      "I": 8,
+      "depth": 1,
+      "operation": "essential-boundary cone (written lemma)",
+      "path": [
+        1
+      ]
+    },
+    {
+      "I": 8,
+      "depth": 1,
+      "operation": "essential-boundary cone (written lemma)",
+      "path": [
+        2
+      ]
+    },
+    {
+      "I": 9,
+      "depth": 1,
+      "operation": "essential-boundary cone (written lemma)",
+      "path": [
+        3
+      ]
+    },
+    {
+      "I": 9,
+      "depth": 1,
+      "operation": "essential-boundary cone (written lemma)",
+      "path": [
+        4
+      ]
+    }
+  ],
+  "root": {
+    "F": 4,
+    "I": 10,
+    "genus": 4,
+    "n": 5,
+    "seed": 2026102301,
+    "trial": 11
+  },
+  "statistics": {
+    "filling_stellar_steps": 3,
+    "maximum_filling_depth": 2,
+    "nonfilling_boundary_cones": 4,
+    "safe_nodes": 9,
+    "visited_nodes": 7
+  },
+  "status": "long rainbow and consecutive filling replacements checked"
+}

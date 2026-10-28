@@ -1,0 +1,399 @@
+{
+  "five_intersections": {
+    "capped_genus_histogram": {
+      "1": 32,
+      "2": 64,
+      "3": 32
+    },
+    "genus_three_face_length_histogram": {
+      "(20,)": 32
+    },
+    "genus_three_systems": 32,
+    "intersection_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "representative_genus_three_certificate": {
+      "alternating_crossing_signs": [
+        -1,
+        -1,
+        -1,
+        1,
+        1
+      ],
+      "cyclic_orders_along_curves": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "face_cycles": [
+        [
+          [
+            0,
+            1,
+            -1
+          ],
+          [
+            3,
+            0,
+            -1
+          ],
+          [
+            1,
+            3,
+            -1
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            0,
+            2,
+            -1
+          ],
+          [
+            1,
+            0,
+            -1
+          ],
+          [
+            3,
+            1,
+            1
+          ],
+          [
+            0,
+            3,
+            -1
+          ],
+          [
+            2,
+            0,
+            -1
+          ],
+          [
+            1,
+            2,
+            -1
+          ],
+          [
+            0,
+            1,
+            1
+          ],
+          [
+            2,
+            0,
+            1
+          ],
+          [
+            1,
+            2,
+            1
+          ],
+          [
+            3,
+            1,
+            -1
+          ],
+          [
+            0,
+            3,
+            1
+          ],
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            2,
+            1,
+            -1
+          ],
+          [
+            0,
+            2,
+            1
+          ],
+          [
+            3,
+            0,
+            1
+          ],
+          [
+            1,
+            3,
+            1
+          ]
+        ]
+      ],
+      "same_face_graph_edge": [
+        [
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          2,
+          -1
+        ]
+      ]
+    },
+    "same_face_graph_edge_count_histogram": {
+      "10": 32
+    },
+    "total_rotation_systems": 128
+  },
+  "mathematical_dependency": "None. The written proof is independent of this enumeration.",
+  "missing_edge_reduction": "All six missing-edge choices are equivalent by relabelling.",
+  "scope": "Labelled oriented ribbon graphs; not isotopy classification or formal proof.",
+  "six_intersections": {
+    "capped_genus_histogram": {
+      "2": 384,
+      "3": 640
+    },
+    "genus_three_face_length_histogram": {
+      "(3, 21)": 256,
+      "(6, 18)": 384
+    },
+    "genus_three_systems": 640,
+    "intersection_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        3
+      ]
+    ],
+    "representative_genus_three_certificate": {
+      "alternating_crossing_signs": [
+        -1,
+        -1,
+        -1,
+        -1,
+        1,
+        -1
+      ],
+      "cyclic_orders_along_curves": [
+        [
+          1,
+          2,
+          3
+        ],
+        [
+          0,
+          2,
+          3
+        ],
+        [
+          0,
+          1,
+          3
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "face_cycles": [
+        [
+          [
+            0,
+            1,
+            -1
+          ],
+          [
+            3,
+            0,
+            -1
+          ],
+          [
+            2,
+            3,
+            1
+          ],
+          [
+            0,
+            2,
+            -1
+          ],
+          [
+            1,
+            0,
+            -1
+          ],
+          [
+            3,
+            1,
+            1
+          ],
+          [
+            2,
+            3,
+            -1
+          ],
+          [
+            1,
+            2,
+            1
+          ],
+          [
+            3,
+            1,
+            -1
+          ],
+          [
+            0,
+            3,
+            1
+          ],
+          [
+            1,
+            0,
+            1
+          ],
+          [
+            2,
+            1,
+            1
+          ],
+          [
+            3,
+            2,
+            1
+          ],
+          [
+            0,
+            3,
+            -1
+          ],
+          [
+            2,
+            0,
+            -1
+          ],
+          [
+            3,
+            2,
+            -1
+          ],
+          [
+            1,
+            3,
+            -1
+          ],
+          [
+            2,
+            1,
+            -1
+          ],
+          [
+            0,
+            2,
+            1
+          ],
+          [
+            3,
+            0,
+            1
+          ],
+          [
+            1,
+            3,
+            1
+          ]
+        ],
+        [
+          [
+            0,
+            1,
+            1
+          ],
+          [
+            2,
+            0,
+            1
+          ],
+          [
+            1,
+            2,
+            -1
+          ]
+        ]
+      ],
+      "same_face_graph_edge": [
+        [
+          0,
+          2,
+          1
+        ],
+        [
+          0,
+          3,
+          -1
+        ]
+      ]
+    },
+    "same_face_graph_edge_count_histogram": {
+      "6": 384,
+      "9": 256
+    },
+    "total_rotation_systems": 1024
+  }
+}

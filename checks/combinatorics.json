@@ -1,0 +1,247 @@
+{
+  "arithmetic": {
+    "g_range": [
+      3,
+      100000
+    ],
+    "square_m_range": [
+      2,
+      10000
+    ],
+    "table_g_baseline_improved": [
+      [
+        3,
+        2,
+        3
+      ],
+      [
+        4,
+        3,
+        4
+      ],
+      [
+        5,
+        3,
+        4
+      ],
+      [
+        6,
+        4,
+        5
+      ],
+      [
+        8,
+        4,
+        5
+      ],
+      [
+        9,
+        5,
+        6
+      ],
+      [
+        16,
+        7,
+        8
+      ],
+      [
+        25,
+        9,
+        10
+      ]
+    ]
+  },
+  "bipartite_family": {
+    "even_q_range": [
+      2,
+      22
+    ],
+    "odd_p_range": [
+      3,
+      21
+    ],
+    "parameter_pairs": 110
+  },
+  "dense_intersection_graphs": {
+    "rows": [
+      {
+        "admissible_graph_B_pairs": 7,
+        "case_counts": {
+          "F=1,min_degree>=2": 6,
+          "F=2,min_degree>=3": 1
+        },
+        "labelled_graphs": 7,
+        "n": 4
+      },
+      {
+        "admissible_graph_B_pairs": 187,
+        "case_counts": {
+          "F=1,leaf": 20,
+          "F=1,min_degree>=2": 110,
+          "F=2,min_degree=2": 30,
+          "F=2,min_degree>=3": 16,
+          "F>=3": 11
+        },
+        "labelled_graphs": 176,
+        "n": 5
+      },
+      {
+        "admissible_graph_B_pairs": 2063,
+        "case_counts": {
+          "F=1,leaf": 30,
+          "F=1,min_degree>=2": 1441,
+          "F=2,min_degree=2": 60,
+          "F=2,min_degree>=3": 410,
+          "F>=3": 122
+        },
+        "labelled_graphs": 1941,
+        "n": 6
+      },
+      {
+        "admissible_graph_B_pairs": 7780,
+        "case_counts": {
+          "F=1,min_degree>=2": 6196,
+          "F=2,min_degree>=3": 1351,
+          "F>=3": 233
+        },
+        "labelled_graphs": 7547,
+        "n": 7
+      },
+      {
+        "admissible_graph_B_pairs": 126150,
+        "case_counts": {
+          "F=1,min_degree>=2": 101584,
+          "F=2,min_degree>=3": 20854,
+          "F>=3": 3712
+        },
+        "labelled_graphs": 122438,
+        "n": 8
+      }
+    ],
+    "total_case_counts": {
+      "F=1,leaf": 50,
+      "F=1,min_degree>=2": 109337,
+      "F=2,min_degree=2": 90,
+      "F=2,min_degree>=3": 22632,
+      "F>=3": 4078
+    }
+  },
+  "first_full_homology_cover": {
+    "H1_rank": 6,
+    "connected": true,
+    "curve_degree_histogram": {
+      "4": 96,
+      "6": 64
+    },
+    "curves": 160,
+    "degree": 64,
+    "dual_systole": 2,
+    "face_lengths": [
+      12
+    ],
+    "faces": 128,
+    "genus": 129,
+    "group_sizes": {
+      "0": 96,
+      "1": 64
+    },
+    "intersections": 384,
+    "rainbow_two_cycle_witness": [
+      [
+        10,
+        16
+      ],
+      5,
+      8
+    ]
+  },
+  "limits": "No finite check proves the infinite topology or homotopy statements.",
+  "multigraph_lemma": [
+    {
+      "F": 1,
+      "edges": 2,
+      "girth_histogram": {
+        "1": 1
+      },
+      "multigraphs": 1
+    },
+    {
+      "F": 2,
+      "edges": 3,
+      "girth_histogram": {
+        "1": 9,
+        "2": 1
+      },
+      "multigraphs": 10
+    },
+    {
+      "F": 3,
+      "edges": 4,
+      "girth_histogram": {
+        "1": 111,
+        "2": 15
+      },
+      "multigraphs": 126
+    },
+    {
+      "F": 4,
+      "edges": 5,
+      "girth_histogram": {
+        "1": 1750,
+        "2": 246,
+        "3": 6
+      },
+      "multigraphs": 2002
+    },
+    {
+      "F": 5,
+      "edges": 6,
+      "girth_histogram": {
+        "1": 33755,
+        "2": 4795,
+        "3": 200,
+        "4": 10
+      },
+      "multigraphs": 38760
+    }
+  ],
+  "status": "all finite assertions passed",
+  "subdivision_interface": [
+    {
+      "dimension": 3,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 10
+    },
+    {
+      "dimension": 4,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 13
+    },
+    {
+      "dimension": 5,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 16
+    },
+    {
+      "dimension": 6,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 19
+    },
+    {
+      "dimension": 7,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 22
+    },
+    {
+      "dimension": 8,
+      "no_face_contains_all_original_vertices": true,
+      "stellar_steps": 3,
+      "top_simplices": 25
+    }
+  ]
+}
